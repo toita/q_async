@@ -1,0 +1,7 @@
+s3:
+  access_key_id: xxxxxxx
+  secret_access_key: xxxxxxx
+  bucket_name: xxxxxxx
+
+local:
+  working_dir: /home/toita/q_async/tmp/img
